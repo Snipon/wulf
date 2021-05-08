@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="345.66234"
-     inkscape:cy="1105.1834"
+     inkscape:zoom="4"
+     inkscape:cx="566.44559"
+     inkscape:cy="691.64529"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text3372-2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="3840"
      inkscape:window-height="2104"
-     inkscape:window-x="8"
-     inkscape:window-y="6"
-     inkscape:window-maximized="0">
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid14" />
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -264,19 +264,15 @@
        y="182.85855"
        inkscape:export-xdpi="720.0705"
        inkscape:export-ydpi="720.0705" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042"
-       x="76.466713"
-       y="175.11525"
+    <g
+       aria-label="W"
        id="text3372"
-       inkscape:export-xdpi="720.0705"
-       inkscape:export-ydpi="720.0705"><tspan
-         sodipodi:role="line"
-         id="tspan3370"
-         x="76.466713"
-         y="175.11525"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042">W</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042">
+      <path
+         d="m 76.466713,165.63703 h 1.250642 l 0.907827,7.69431 1.079234,-5.09145 h 1.33952 l 1.091932,5.10415 0.907826,-7.70701 h 1.250643 l -1.415702,9.47822 h -1.212552 l -1.288732,-5.63106 -1.282385,5.63106 h -1.212551 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042"
+         id="path967" />
+    </g>
     <rect
        style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.51614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect20-9-1-78-5-0-5"
@@ -296,45 +292,33 @@
          id="tspan3407"
          x="67.898102"
          y="291.03958"
-         style="stroke-width:1.66432"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042"
-       x="101.43473"
-       y="175.02321"
+         style="stroke-width:1.66432" /></text>
+    <g
+       aria-label="U"
        id="text3372-9"
-       inkscape:export-xdpi="720.0705"
-       inkscape:export-ydpi="720.0705"><tspan
-         sodipodi:role="line"
-         id="tspan3370-4"
-         x="101.43473"
-         y="175.02321"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042">U</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042"
-       x="125.9425"
-       y="175.11525"
-       id="text3372-6"
-       inkscape:export-xdpi="720.0705"
-       inkscape:export-ydpi="720.0705"><tspan
-         sodipodi:role="line"
-         x="125.9425"
-         y="175.11525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042">
+      <path
+         d="m 102.36795,171.38555 v -5.84056 h 1.28873 v 6.42462 q 0,0.69198 0.0381,0.99036 0.0381,0.29202 0.13332,0.45074 0.20315,0.37455 0.58406,0.56501 0.38725,0.19045 0.93322,0.19045 0.55231,0 0.93322,-0.19045 0.3809,-0.19046 0.5904,-0.56501 0.0952,-0.15872 0.13332,-0.45074 0.0381,-0.29203 0.0381,-0.97766 v -6.43732 h 1.28239 v 5.84056 q 0,1.4538 -0.18411,2.06959 -0.17776,0.60945 -0.62215,1.00941 -0.41899,0.37455 -0.95861,0.55866 -0.53962,0.1841 -1.21255,0.1841 -0.66659,0 -1.20621,-0.1841 -0.53961,-0.18411 -0.96496,-0.55866 -0.43804,-0.39361 -0.62214,-1.01575 -0.18411,-0.6285 -0.18411,-2.06325 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042"
-         id="tspan3447">L</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042"
-       x="151.16765"
-       y="175.11525"
+         id="path970" />
+    </g>
+    <g
+       aria-label="L"
+       id="text3372-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042">
+      <path
+         d="m 127.30741,165.63703 h 1.28873 v 8.39899 h 4.57723 v 1.07923 h -5.86596 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042"
+         id="path973" />
+    </g>
+    <g
+       aria-label="F"
        id="text3372-2"
-       inkscape:export-xdpi="720.0705"
-       inkscape:export-ydpi="720.0705"><tspan
-         sodipodi:role="line"
-         id="tspan3370-2"
-         x="151.16765"
-         y="175.11525"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042">F</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325042">
+      <path
+         d="m 152.64683,165.63703 h 5.58028 v 1.07924 h -4.29154 v 2.79331 h 3.89159 v 1.07923 h -3.89159 v 4.52644 h -1.28874 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.0016px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.325042"
+         id="path976" />
+    </g>
   </g>
 </svg>
